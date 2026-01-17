@@ -1,2 +1,2 @@
-# Credit_card_project_BI
+# Credit_Card_Project_BI
 Interactive Power BI dashboard for analyzing credit card transaction 
